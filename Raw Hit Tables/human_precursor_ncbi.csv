@@ -1,0 +1,64 @@
+ID,Protein Name,Hits
+sp|P01308|INS_HUMAN,Insulin,7
+sp|P05019|IGF1_HUMAN,Insulin-like growth factor I,13
+sp|P01344|IGF2_HUMAN,Insulin-like growth factor II,13
+sp|P01275|GLUC_HUMAN,Glucagon,0
+sp|O00253|AGRP_HUMAN,Agouti-related protein,0
+sp|P01189|COLI_HUMAN,Pro-opiomelanocortin,0
+sp|P41159|LEP_HUMAN,Leptin,0
+sp|P01375|TNFA_HUMAN,Tumor necrosis factor,2
+sp|P06307|CCKN_HUMAN,Cholecystokinin,0
+sp|P01350|GAST_HUMAN,Gastrin,0
+sp|P01160|ANF_HUMAN,Natriuretic peptides A,0
+sp|P01178|NEU1_HUMAN,Oxytocin-neurophysin 1,0
+sp|P01185|NEU2_HUMAN,Vasopressin-neurophysin 2-copeptin,0
+sp|P01241|SOMA_HUMAN,Somatotropin,0
+sp|P01258|CALC_HUMAN,Calcitonin,0
+sp|P01137|TGFB1_HUMAN,Transforming growth factor beta-1,93
+sp|P61812|TGFB2_HUMAN,Transforming growth factor beta-2,74
+sp|P10997|IAPP_HUMAN,Islet amyloid polypeptide,0
+sp|Q15848|ADIPO_HUMAN,Adiponectin,1060
+sp|P06850|CRF_HUMAN,Corticoliberin,0
+sp|O00230|CORT_HUMAN,Cortistatin,0
+sp|P01210|PENK_HUMAN,Proenkephalin-A,0
+sp|P05305|EDN1_HUMAN,Endothelin-1,8
+sp|P20800|EDN2_HUMAN,Endothelin-2,5
+sp|P01588|EPO_HUMAN,Erythropoietin,0
+sp|P22466|GALA_HUMAN,Galanin peptides,0
+sp|Q9UBU3|GHRL_HUMAN,Appetite-regulating hormone,0
+sp|P01286|SLIB_HUMAN,Somatoliberin,0
+sp|P81172|HEPC_HUMAN,Hepcidin,0
+sp|P0DN86|CGB3_HUMAN,Choriogonadotropin subunit beta 3,0
+sp|P0DML2|CSH1_HUMAN,Chorionic somatomammotropin hormone 1,0
+sp|P0DML3|CSH2_HUMAN,Chorionic somatomammotropin hormone 2,0
+sp|P08476|INHBA_HUMAN,Inhibin beta A chain,53
+sp|P01229|LSHB_HUMAN,Lutropin subunit beta,0
+sp|O43612|OREX_HUMAN,Orexin,0
+sp|P02818|OSTCN_HUMAN,Osteocalcin,0
+sp|P01298|PAHO_HUMAN,Pancreatic prohormone,0
+sp|P01270|PTHY_HUMAN,Parathyroid hormone,0
+sp|P18509|PACA_HUMAN,Pituitary adenylate cyclase-activating polypeptide,0
+sp|P01236|PRL_HUMAN,Prolactin,0
+sp|P01148|GON1_HUMAN,Progonadoliberin-1,0
+sp|P04090|REL2_HUMAN,Prorelaxin H2,0
+sp|Q8WXF3|REL3_HUMAN,Relaxin-3,0
+sp|P04808|REL1_HUMAN,Prorelaxin H1,0
+sp|P00797|RENI_HUMAN,Renin,1
+sp|P09683|SECR_HUMAN,Secretin,0
+sp|P61278|SMS_HUMAN,Somatostatin,0
+sp|P40225|TPO_HUMAN,Thrombopoietin,0
+sp|P01222|TSHB_HUMAN,Thyrotropin subunit beta,0
+sp|P20396|TRH_HUMAN,Pro-thyrotropin-releasing hormone,0
+sp|P01282|VIP_HUMAN,VIP peptides,0
+sp|Q02747|GUC2A_HUMAN,Guanylin,0
+sp|Q16661|GUC2B_HUMAN,Guanylate cyclase activator 2B,0
+sp|P00746|CFAD_HUMAN,Complement factor D,119
+sp|Q9HD89|RETN_HUMAN,Resistin,0
+sp|P02753|RET4_HUMAN,Retinol-binding protein 4,0
+sp|P80188|NGAL_HUMAN,Neutrophil gelatinase-associated lipocalin,0
+sp|P05231|IL6_HUMAN,Interleukin-6,62
+sp|Q14116|IL18_HUMAN,Interleukin-18,1
+sp|P09681|GIP_HUMAN,Gastric inhibitory polypeptide,0
+sp|Q8NAU1|FNDC5_HUMAN,Fibronectin type III domain-containing protein 5,0
+sp|Q9NSA1|FGF21_HUMAN,Fibroblast growth factor 21,10
+sp|O95750|FGF19_HUMAN,Fibroblast growth factor 19,5

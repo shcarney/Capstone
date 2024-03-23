@@ -1,0 +1,62 @@
+ID,Protein Name,Hits
+sp|P01325|INS1_MOUSE,Insulin-1,2
+sp|P01326|INS2_MOUSE,Insulin-2,6
+sp|O09108|LSHB_MOUSE,Lutropin subunit beta,0
+sp|P41160|LEP_MOUSE,Leptin,0
+tr|Q544U0|Q544U0_MOUSE,Leptin,0
+sp|Q8CIT0|CRF_MOUSE,Corticoliberin,0
+sp|P01193|COLI_MOUSE,Pro-opiomelanocortin,0
+tr|Q9Z0L6|Q9Z0L6_MOUSE,Parathyroid hormone,0
+sp|Q60994|ADIPO_MOUSE,Adiponectin,1320
+sp|P06879|PRL_MOUSE,Prolactin,0
+sp|P70160|CALC_MOUSE,Calcitonin,0
+sp|Q9EQX0|GHRL_MOUSE,Appetite-regulating hormone,0
+sp|P16043|SLIB_MOUSE,Somatoliberin,0
+sp|P47932|REL1_MOUSE,Prorelaxin 1,0
+sp|P05017|IGF1_MOUSE,Insulin-like growth factor I,13
+sp|P09535|IGF2_MOUSE,Insulin-like growth factor II,13
+sp|P60041|SMS_MOUSE,Somatostatin,0
+sp|P12968|IAPP_MOUSE,Islet amyloid polypeptide,0
+sp|P48756|GIP_MOUSE,Gastric inhibitory polypeptide,0
+sp|Q99P87|RETN_MOUSE,Resistin,0
+tr|Q547R2|Q547R2_MOUSE,Orexin,0
+sp|P56473|AGRP_MOUSE,Agouti-related protein,0
+sp|P22387|EDN1_MOUSE,Endothelin-1,4
+sp|P22389|EDN2_MOUSE,Endothelin-2,5
+sp|P04202|TGFB1_MOUSE,Transforming growth factor beta-1 proprotein,93
+sp|P27090|TGFB2_MOUSE,Transforming growth factor beta-2 proprotein,72
+sp|P06804|TNFA_MOUSE,Tumor necrosis factor,2
+sp|P55095|GLUC_MOUSE,Pro-glucagon,0
+sp|P09240|CCKN_MOUSE,Cholecystokinin,0
+sp|P48757|GAST_MOUSE,Gastrin,0
+sp|P35454|NEU1_MOUSE,Oxytocin-neurophysin 1,0
+sp|P35455|NEU2_MOUSE,Vasopressin-neurophysin 2-copeptin,0
+sp|P06880|SOMA_MOUSE,Somatotropin,0
+sp|P22005|PENK_MOUSE,Proenkephalin-A,0
+sp|P07321|EPO_MOUSE,Erythropoietin,0
+sp|P47212|GALA_MOUSE,Galanin peptides,0
+sp|Q9EQ21|HEPC_MOUSE,Hepcidin,0
+tr|B2RTN6|B2RTN6_MOUSE,Glycoprotein hormone beta 5,0
+tr|A0A0M6L0K7|A0A0M6L0K7_MOUSE,Growth hormone b1,0
+sp|Q04998|INHBA_MOUSE,Inhibin beta A chain,53
+sp|P86546|OSTCN_MOUSE,Osteocalcin,0
+sp|P10601|PAHO_MOUSE,Pancreatic polypeptide prohormone,0
+sp|O70176|PACA_MOUSE,Pituitary adenylate cyclase-activating polypeptide,0
+sp|P13562|GON1_MOUSE,Progonadoliberin-1,0
+tr|A2RTV8|A2RTV8_MOUSE,Relaxin 1,0
+sp|Q8CHK2|REL3_MOUSE,Relaxin-3,0
+sp|P06281|RENI1_MOUSE,Renin-1,1
+sp|Q08535|SECR_MOUSE,Secretin,0
+sp|P40226|TPO_MOUSE,Thrombopoietin,0
+tr|E9Q4F3|E9Q4F3_MOUSE,Thyrotropin subunit beta,0
+sp|Q62361|TRH_MOUSE,Pro-thyrotropin-releasing hormone,0
+sp|P32648|VIP_MOUSE,VIP peptides,0
+sp|P33680|GUC2A_MOUSE,Guanylin,0
+sp|O09051|GUC2B_MOUSE,Guanylate cyclase activator 2B,0
+sp|P03953|CFAD_MOUSE,Complement factor D,127
+tr|H7BWY6|H7BWY6_MOUSE,Retinol-binding protein 4,0
+sp|P11672|NGAL_MOUSE,Neutrophil gelatinase-associated lipocalin,0
+tr|A0A0G2JGF4|A0A0G2JGF4_MOUSE,Interleukin-6,58
+sp|Q8K4Z2|FNDC5_MOUSE,Fibronectin type III domain-containing protein 5,0
+sp|Q9JJN1|FGF21_MOUSE,Fibroblast growth factor 21,3
+sp|O35622|FGF15_MOUSE,Fibroblast growth factor 15,5

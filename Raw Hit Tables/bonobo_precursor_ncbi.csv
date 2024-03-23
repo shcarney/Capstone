@@ -1,0 +1,60 @@
+ID,Protein Name,Hits
+tr|A0A2R9C3W5|A0A2R9C3W5_PANPA,Insulin,9
+tr|A0A2R8ZF45|A0A2R8ZF45_PANPA,Insulin-like growth factor I,13
+tr|A0A2R9BAY3|A0A2R9BAY3_PANPA,Insulin-like growth factor II,13
+tr|A0A2R8ZHC5|A0A2R8ZHC5_PANPA,Glucagon,0
+tr|A0A2R9BXJ7|A0A2R9BXJ7_PANPA,Agouti related neuropeptide,0
+tr|A0A2R9BNJ4|A0A2R9BNJ4_PANPA,Pro-opiomelanocortin,0
+tr|A0A2R9B6N0|A0A2R9B6N0_PANPA,Leptin,0
+tr|A0A2R8ZGR1|A0A2R8ZGR1_PANPA,Tumor necrosis factor,2
+tr|A0A2R8ZA42|A0A2R8ZA42_PANPA,Cholecystokinin,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA,Gastrin,0
+tr|A0A2R9BL40|A0A2R9BL40_PANPA,Natriuretic peptides A,0
+XP_054960739.1,oxytocin-neurophysin 1 [Pan paniscus],0
+XP_034803558.1,vasopressin-neurophysin 2-copeptin [Pan paniscus],0
+9597_0:0040fc,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034798605.1"",""pub_gene_id"":""GH2"",""uniprot"":""A0A2R9A9A0"",""description"":""GH2""}",0
+tr|A0A2R9C976|A0A2R9C976_PANPA,Calcitonin,0
+tr|A0A2R9AI79|A0A2R9AI79_PANPA,Transforming growth factor beta,93
+tr|A0A2R9AD99|A0A2R9AD99_PANPA,Transforming growth factor beta,74
+tr|A0A2R9ATQ5|A0A2R9ATQ5_PANPA,Islet amyloid polypeptide,0
+XP_034811515.2,adiponectin [Pan paniscus],1058
+tr|A0A2R8ZPS7|A0A2R8ZPS7_PANPA,Corticoliberin,0
+tr|A0A2R9BUL4|A0A2R9BUL4_PANPA,Somatostatin/Cortistatin C-terminal domain-containing protein,0
+tr|A0A2R9CRY2|A0A2R9CRY2_PANPA,Proenkephalin-A,0
+tr|A0A2R9A948|A0A2R9A948_PANPA,Endothelin-1,5
+tr|A0A2R9BUZ2|A0A2R9BUZ2_PANPA,Endothelin-2,5
+tr|A0A2R9CD53|A0A2R9CD53_PANPA,Erythropoietin,0
+tr|A0A2R9ADP9|A0A2R9ADP9_PANPA,Galanin peptides,0
+tr|A0A2R8ZSX1|A0A2R8ZSX1_PANPA,Appetite-regulating hormone,0
+tr|A0A2R9B5V6|A0A2R9B5V6_PANPA,Somatoliberin,0
+tr|A0A2R9BZJ1|A0A2R9BZJ1_PANPA,Hepcidin antimicrobial peptide,0
+9597_0:0047ef,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034801036.1"",""pub_gene_id"":""LOC117976968"",""description"":""choriogonadotropin subunit beta variant 2-like""}",0
+9597_0:0042f6,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034799265.1"",""pub_gene_id"":""CSH1"",""description"":""chorionic somatomammotropin hormone 1""}",0
+tr|A0A2R9BD91|A0A2R9BD91_PANPA,Inhibin beta A chain,53
+tr|A0A2R9A8A9|A0A2R9A8A9_PANPA,Orexin,0
+tr|A0A2R9CDC0|A0A2R9CDC0_PANPA,Osteocalcin,0
+tr|A0A2R9BJ11|A0A2R9BJ11_PANPA,Pancreatic polypeptide,0
+tr|A0A2R9A3P3|A0A2R9A3P3_PANPA,Parathyroid hormone,0
+9597_0:0045e9,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_003817932.2"",""pub_gene_id"":""ADCYAP1"",""description"":""pituitary adenylate cyclase-activating polypeptide isoform X3""}",0
+XP_054970397.1,prolactin [Pan paniscus],0
+tr|A0A2R8ZXH5|A0A2R8ZXH5_PANPA,Progonadoliberin,0
+tr|A0A2R8ZRM0|A0A2R8ZRM0_PANPA,Relaxin 2,0
+tr|A0A2R9C0Y1|A0A2R9C0Y1_PANPA,Renin,1
+XP_003806075.3,secretin [Pan paniscus],0
+tr|A0A2R8ZYR1|A0A2R8ZYR1_PANPA,Somatostatin,0
+XP_003806645.4,thrombopoietin isoform X1 [Pan paniscus],0
+tr|A0A2R9AHW6|A0A2R9AHW6_PANPA,Thyrotropin subunit beta,0
+tr|A0A2R9C4N0|A0A2R9C4N0_PANPA,Pro-thyrotropin-releasing hormone,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA,Vasoactive intestinal peptide,0
+tr|A0A2R9AA40|A0A2R9AA40_PANPA,Guanylin,0
+tr|A0A2R9BDN8|A0A2R9BDN8_PANPA,Guanylate cyclase activator 2B,0
+tr|A0A2R9CB19|A0A2R9CB19_PANPA,Complement factor D,67
+XP_003810063.1,resistin [Pan paniscus],0
+tr|A0A2R9C9Q7|A0A2R9C9Q7_PANPA,Retinol-binding protein,0
+tr|A0A2R8ZR17|A0A2R8ZR17_PANPA,Lipocalin 2,0
+XP_034819686.1,interleukin-6 isoform X1 [Pan paniscus],62
+tr|A0A2R9A3C8|A0A2R9A3C8_PANPA,Interleukin-18,1
+XP_034797398.1,gastric inhibitory polypeptide [Pan paniscus],0
+tr|A0A2R8ZI95|A0A2R8ZI95_PANPA,Fibronectin type III domain containing 5,0
+XP_034801054.1,fibroblast growth factor 21 [Pan paniscus],10
+XP_014202332.2,fibroblast growth factor 19 [Pan paniscus],5

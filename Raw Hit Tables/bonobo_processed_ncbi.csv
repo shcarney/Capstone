@@ -1,0 +1,69 @@
+ID,Protein Name,Hits
+tr|A0A2R9BXJ7|A0A2R9BXJ7_PANPA|21-132,Agouti related neuropeptide,0
+tr|A0A2R9CM19|A0A2R9CM19_PANPA|34-286,"Adiponectin, C1Q and collagen domain containing",1018
+tr|A0A2R9BL40|A0A2R9BL40_PANPA|26-153,Natriuretic peptides A,0
+tr|A0A2R9C976|A0A2R9C976_PANPA|26-141,Calcitonin,0
+tr|A0A2R9A0T8|A0A2R9A0T8_PANPA|25-147,Glycoprotein hormones alpha chain,0
+tr|A0A2R8ZA42|A0A2R8ZA42_PANPA|21-115,Cholecystokinin,0
+tr|A0A2R9BFI7|A0A2R9BFI7_PANPA|23-1614,Complement C3,1
+tr|A0A2R9BNJ4|A0A2R9BNJ4_PANPA|27-268,Pro-opiomelanocortin,0
+9597_0:000087,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_008973873.2"",""pub_gene_id"":""CORT"",""uniprot"":""A0A2R9BUL4"",""description"":""Somatostatin domain-containing protein""}",0
+tr|A0A2R8ZPS7|A0A2R8ZPS7_PANPA|155-194,Corticoliberin,0
+9597_0:0042f6,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034799265.1"",""pub_gene_id"":""CSH1"",""description"":""chorionic somatomammotropin hormone 1""}",0
+tr|A0A2R9CD53|A0A2R9CD53_PANPA|28-193,Erythropoietin,0
+tr|A0A2R9BUZ2|A0A2R9BUZ2_PANPA|48-69,Endothelin-2,2
+tr|A0A2R9A948|A0A2R9A948_PANPA|52-73,Endothelin-1,2
+tr|A0A2R9A948|A0A2R9A948_PANPA|18-212,Endothelin-1,5
+9597_0:004b6c,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034801054.1"",""pub_gene_id"":""FGF21"",""uniprot"":""A0A2R9AZE4"",""description"":""A0A2R9AZE4_PANPA""}",10
+9597_0:002fc9,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_014202332.2"",""pub_gene_id"":""FGF19"",""description"":""fibroblast growth factor 19""}",5
+tr|A0A2R8ZI95|A0A2R8ZI95_PANPA,Fibronectin type III domain containing 5,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|21-82,Gastrin,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|87-99,Gastrin,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|22-101,Gastrin,0
+tr|A0A2R9ADP9|A0A2R9ADP9_PANPA|33-45,Galanin peptides,0
+tr|A0A2R9ADP9|A0A2R9ADP9_PANPA|23-123,Galanin peptides,0
+tr|A0A2R8ZSX1|A0A2R8ZSX1_PANPA|24-51,Appetite-regulating hormone,0
+tr|A0A2R8ZSX1|A0A2R8ZSX1_PANPA|29-50,Appetite-regulating hormone,0
+9597_0:0041ba,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_034797398.1"",""pub_gene_id"":""GIP"",""uniprot"":""A0A2R9A756"",""description"":""A0A2R9A756_PANPA""}",0
+tr|A0A2R8ZHC5|A0A2R8ZHC5_PANPA|21-179,Glucagon,0
+tr|A0A2R8ZXH5|A0A2R8ZXH5_PANPA|28-96,Progonadoliberin,0
+tr|A0A2R9AZ29|A0A2R9AZ29_PANPA|21-144,Luteinizing hormone subunit beta,0
+tr|A0A2R9A6U9|A0A2R9A6U9_PANPA|20-134,Vasopressin-neurophysin 2-copeptin,0
+tr|A0A2R8ZWW2|A0A2R8ZWW2_PANPA|21-200,Lipocalin 2,0
+tr|A0A2R9BFN6|A0A2R9BFN6_PANPA|24-222,Prolactin,0
+tr|A0A2R9A3P3|A0A2R9A3P3_PANPA|26-115,Parathyroid hormone,0
+9597_0:003017,"{""organism"":""Pan paniscus"",""genome_id"":""GCF_013052645.1"",""pub_prot_id"":""XP_003806075.2"",""pub_gene_id"":""SCT"",""description"":""secretin""}",0
+tr|A0A2R9B5V6|A0A2R9B5V6_PANPA|20-108,Somatoliberin,0
+tr|A0A2R8ZYR1|A0A2R8ZYR1_PANPA|25-116,Somatostatin,0
+tr|A0A2R9AD99|A0A2R9AD99_PANPA|21-442,Transforming growth factor beta,74
+tr|A0A2R9AI79|A0A2R9AI79_PANPA|30-390,Transforming growth factor beta,89
+tr|A0A2R9AI79|A0A2R9AI79_PANPA|275-390,Transforming growth factor beta,94
+tr|A0A2R9C4N0|A0A2R9C4N0_PANPA|25-240,Pro-thyrotropin-releasing hormone,0
+tr|A0A2R8ZGR1|A0A2R8ZGR1_PANPA|89-233,Tumor necrosis factor,2
+tr|A0A2R9AJU1|A0A2R9AJU1_PANPA|22-353,Thrombopoietin,0
+tr|A0A2R9AA40|A0A2R9AA40_PANPA|22-115,Guanylin,0
+tr|A0A2R9BDN8|A0A2R9BDN8_PANPA|27-112,Guanylate cyclase activator 2B,0
+tr|A0A2R9BZJ1|A0A2R9BZJ1_PANPA|25-84,Hepcidin antimicrobial peptide,0
+tr|A0A2R9ATQ5|A0A2R9ATQ5_PANPA|23-89,Islet amyloid polypeptide,0
+tr|A0A2R8ZF45|A0A2R8ZF45_PANPA|49-196,Insulin-like growth factor I,13
+tr|A0A2R9BD91|A0A2R9BD91_PANPA|21-426,Inhibin beta A chain,53
+tr|A0A2R9BDM8|A0A2R9BDM8_PANPA|28-198,Interleukin-6,62
+tr|A0A2R9C3W5|A0A2R9C3W5_PANPA|25-110,Insulin,7
+tr|A0A2R9BAY3|A0A2R9BAY3_PANPA|25-180,Insulin-like growth factor II,13
+tr|A0A2R9B6N0|A0A2R9B6N0_PANPA|22-167,Leptin,0
+tr|A0A2R9A8A9|A0A2R9A8A9_PANPA|34-131,Orexin,0
+tr|A0A2R9CDC0|A0A2R9CDC0_PANPA|24-100,Osteocalcin,0
+tr|A0A2R9AJZ0|A0A2R9AJZ0_PANPA|25-176,Pituitary adenylate cyclase-activating polypeptide,0
+tr|A0A2R9AJZ0|A0A2R9AJZ0_PANPA|132-154,Pituitary adenylate cyclase-activating polypeptide,0
+tr|A0A2R9BJ11|A0A2R9BJ11_PANPA|19-95,Pancreatic polypeptide,0
+tr|A0A2R9CRY2|A0A2R9CRY2_PANPA|21-267,Proenkephalin-A,0
+tr|A0A2R9BC99|A0A2R9BC99_PANPA|19-108,Resistin,0
+tr|A0A2R8ZRM0|A0A2R8ZRM0_PANPA|25-185,Relaxin 2,0
+tr|A0A2R9A8Q9|A0A2R9A8Q9_PANPA|20-180,Relaxin 1,0
+tr|A0A2R8ZRK9|A0A2R8ZRK9_PANPA|26-142,Relaxin-3,0
+tr|A0A2R9C9Q7|A0A2R9C9Q7_PANPA|19-201,Retinol-binding protein,0
+tr|A0A2R9C0Y1|A0A2R9C0Y1_PANPA|24-406,Renin,1
+tr|A0A2R9AHW6|A0A2R9AHW6_PANPA|17-138,Thyrotropin subunit beta,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|26-170,Vasoactive intestinal peptide,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|81-103,Vasoactive intestinal peptide,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|125-147,Vasoactive intestinal peptide,0
