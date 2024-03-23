@@ -1,0 +1,69 @@
+ID,Protein Name,Hits
+tr|A0A2R9BXJ7|A0A2R9BXJ7_PANPA|21-132,Agouti related neuropeptide,0
+tr|A0A2R9CM19|A0A2R9CM19_PANPA|34-286,"Adiponectin, C1Q and collagen",250
+tr|A0A2R9BL40|A0A2R9BL40_PANPA|26-153,Natriuretic peptides A OS=Pan,0
+tr|A0A2R9C976|A0A2R9C976_PANPA|26-141,Calcitonin OS=Pan paniscus,0
+tr|A0A2R9A0T8|A0A2R9A0T8_PANPA|25-147,Glycoprotein hormones alpha,1
+tr|A0A2R8ZA42|A0A2R8ZA42_PANPA|21-115,Cholecystokinin OS=Pan,0
+tr|A0A2R9BFI7|A0A2R9BFI7_PANPA|23-1614,Complement C3 OS=Pan paniscus,0
+tr|A0A2R9BNJ4|A0A2R9BNJ4_PANPA|27-268,Pro-opiomelanocortin OS=Pan,0
+9597_0:000087,"{""organism"":""Pan",0
+tr|A0A2R8ZPS7|A0A2R8ZPS7_PANPA|155-194,Corticoliberin OS=Pan,0
+9597_0:0042f6,"{""organism"":""Pan",0
+tr|A0A2R9CD53|A0A2R9CD53_PANPA|28-193,Erythropoietin OS=Pan paniscus,0
+tr|A0A2R9BUZ2|A0A2R9BUZ2_PANPA|48-69,Endothelin-2 OS=Pan paniscus,2
+tr|A0A2R9A948|A0A2R9A948_PANPA|52-73,Endothelin-1 OS=Pan paniscus,2
+tr|A0A2R9A948|A0A2R9A948_PANPA|18-212,Endothelin-1 OS=Pan paniscus,0
+9597_0:004b6c,"{""organism"":""Pan",4
+9597_0:002fc9,"{""organism"":""Pan",2
+tr|A0A2R8ZI95|A0A2R8ZI95_PANPA,Fibronectin type III domain,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|21-82,Gastrin OS=Pan paniscus OX=9597,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|87-99,Gastrin OS=Pan paniscus OX=9597,0
+tr|A0A2R9AFI2|A0A2R9AFI2_PANPA|22-101,Gastrin OS=Pan paniscus,0
+tr|A0A2R9ADP9|A0A2R9ADP9_PANPA|33-45,Galanin peptides OS=Pan,0
+tr|A0A2R9ADP9|A0A2R9ADP9_PANPA|23-123,Galanin peptides OS=Pan,0
+tr|A0A2R8ZSX1|A0A2R8ZSX1_PANPA|24-51,Appetite-regulating hormone,0
+tr|A0A2R8ZSX1|A0A2R8ZSX1_PANPA|29-50,Appetite-regulating hormone,0
+9597_0:0041ba,"{""organism"":""Pan",0
+tr|A0A2R8ZHC5|A0A2R8ZHC5_PANPA|21-179,Glucagon OS=Pan paniscus,0
+tr|A0A2R8ZXH5|A0A2R8ZXH5_PANPA|28-96,Progonadoliberin OS=Pan,0
+tr|A0A2R9AZ29|A0A2R9AZ29_PANPA|21-144,Luteinizing hormone subunit,0
+tr|A0A2R9A6U9|A0A2R9A6U9_PANPA|20-134,Vasopressin-neurophysin,0
+tr|A0A2R8ZWW2|A0A2R8ZWW2_PANPA|21-200,Lipocalin 2 OS=Pan paniscus,0
+tr|A0A2R9BFN6|A0A2R9BFN6_PANPA|24-222,Prolactin OS=Pan paniscus,0
+tr|A0A2R9A3P3|A0A2R9A3P3_PANPA|26-115,Parathyroid hormone OS=Pan,0
+9597_0:003017,"{""organism"":""Pan",0
+tr|A0A2R9B5V6|A0A2R9B5V6_PANPA|20-108,Somatoliberin OS=Pan paniscus,0
+tr|A0A2R8ZYR1|A0A2R8ZYR1_PANPA|25-116,Somatostatin OS=Pan paniscus,0
+tr|A0A2R9AD99|A0A2R9AD99_PANPA|21-442,Transforming growth factor,7
+tr|A0A2R9AI79|A0A2R9AI79_PANPA|30-390,Transforming growth factor,7
+tr|A0A2R9AI79|A0A2R9AI79_PANPA|275-390,Transforming growth factor,8
+tr|A0A2R9C4N0|A0A2R9C4N0_PANPA|25-240,Pro-thyrotropin-releasing,0
+tr|A0A2R8ZGR1|A0A2R8ZGR1_PANPA|89-233,Tumor necrosis factor OS=Pan,2
+tr|A0A2R9AJU1|A0A2R9AJU1_PANPA|22-353,Thrombopoietin OS=Pan paniscus,0
+tr|A0A2R9AA40|A0A2R9AA40_PANPA|22-115,Guanylin OS=Pan paniscus,0
+tr|A0A2R9BDN8|A0A2R9BDN8_PANPA|27-112,Guanylate cyclase activator 2B,0
+tr|A0A2R9BZJ1|A0A2R9BZJ1_PANPA|25-84,Hepcidin antimicrobial peptide,0
+tr|A0A2R9ATQ5|A0A2R9ATQ5_PANPA|23-89,Islet amyloid polypeptide,0
+tr|A0A2R8ZF45|A0A2R8ZF45_PANPA|49-196,Insulin-like growth factor I,3
+tr|A0A2R9BD91|A0A2R9BD91_PANPA|21-426,Inhibin beta A chain OS=Pan,5
+tr|A0A2R9BDM8|A0A2R9BDM8_PANPA|28-198,Interleukin-6 OS=Pan paniscus,1
+tr|A0A2R9C3W5|A0A2R9C3W5_PANPA|25-110,Insulin OS=Pan paniscus,3
+tr|A0A2R9BAY3|A0A2R9BAY3_PANPA|25-180,Insulin-like growth factor II,3
+tr|A0A2R9B6N0|A0A2R9B6N0_PANPA|22-167,Leptin OS=Pan paniscus OX=9597,0
+tr|A0A2R9A8A9|A0A2R9A8A9_PANPA|34-131,Orexin OS=Pan paniscus OX=9597,0
+tr|A0A2R9CDC0|A0A2R9CDC0_PANPA|24-100,Osteocalcin OS=Pan paniscus,0
+tr|A0A2R9AJZ0|A0A2R9AJZ0_PANPA|25-176,Pituitary adenylate,0
+tr|A0A2R9AJZ0|A0A2R9AJZ0_PANPA|132-154,Pituitary adenylate,0
+tr|A0A2R9BJ11|A0A2R9BJ11_PANPA|19-95,Pancreatic polypeptide OS=Pan,0
+tr|A0A2R9CRY2|A0A2R9CRY2_PANPA|21-267,Proenkephalin-A OS=Pan,0
+tr|A0A2R9BC99|A0A2R9BC99_PANPA|19-108,Resistin OS=Pan paniscus,1
+tr|A0A2R8ZRM0|A0A2R8ZRM0_PANPA|25-185,Relaxin 2 OS=Pan paniscus,0
+tr|A0A2R9A8Q9|A0A2R9A8Q9_PANPA|20-180,Relaxin 1 OS=Pan paniscus,0
+tr|A0A2R8ZRK9|A0A2R8ZRK9_PANPA|26-142,Relaxin-3 OS=Pan paniscus,0
+tr|A0A2R9C9Q7|A0A2R9C9Q7_PANPA|19-201,Retinol-binding protein OS=Pan,0
+tr|A0A2R9C0Y1|A0A2R9C0Y1_PANPA|24-406,Renin OS=Pan paniscus OX=9597,0
+tr|A0A2R9AHW6|A0A2R9AHW6_PANPA|17-138,Thyrotropin subunit beta,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|26-170,Vasoactive intestinal peptide,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|81-103,Vasoactive intestinal peptide,0
+tr|A0A2R9AEX1|A0A2R9AEX1_PANPA|125-147,Vasoactive intestinal peptide,0

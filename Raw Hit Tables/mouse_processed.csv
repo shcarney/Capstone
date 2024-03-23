@@ -1,0 +1,105 @@
+ID,Protein Name,Hits
+sp|P56473|AGRP_MOUSE|21-81,Agouti-related protein OS=Mus musculus,0
+sp|Q15848|ADIPO_HUMAN|19-244,Adiponectin OS=Homo sapiens OX=9606,250
+sp|P05125|ANF_MOUSE|123-150,Natriuretic peptides A OS=Mus musculus,0
+sp|P05125|ANF_MOUSE|25-54,Natriuretic peptides A OS=Mus musculus,0
+sp|P05125|ANF_MOUSE|55-91,Natriuretic peptides A OS=Mus musculus,0
+sp|P05125|ANF_MOUSE|92-102,Natriuretic peptides A OS=Mus musculus,0
+sp|P05125|ANF_MOUSE|103-122,Natriuretic peptides A OS=Mus musculus,0
+sp|P70160|CALC_MOUSE|85-116,Calcitonin OS=Mus musculus OX=10090,0
+sp|P70160|CALC_MOUSE|121-136,Calcitonin OS=Mus musculus OX=10090,0
+tr|B2RTN6|B2RTN6_MOUSE|25-130,Glycoprotein hormone beta 5 OS=Mus,0
+sp|P09240|CCKN_MOUSE|21-115,Cholecystokinin OS=Mus musculus OX=10090,0
+sp|P01027|CO3_MOUSE|25-1663,Complement C3 OS=Mus musculus OX=10090,0
+sp|P01193|COLI_MOUSE|27-100,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|77-87,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|124-136,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|142-162,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|165-235,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|165-202,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|185-202,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|205-235,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|124-162,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P01193|COLI_MOUSE|103-121,Pro-opiomelanocortin OS=Mus musculus,0
+sp|P56469|CORT_MOUSE|96-109,Cortistatin OS=Mus musculus OX=10090,0
+tr|A0A0M6L0K7|A0A0M6L0K7_MOUSE|27-216,Growth hormone b1 OS=Mus,0
+sp|Q8CIT0|CRF_MOUSE|145-185,Corticoliberin OS=Mus musculus OX=10090,0
+sp|P07321|EPO_MOUSE|27-192,Erythropoietin OS=Mus musculus OX=10090,0
+sp|P22389|EDN2_MOUSE|46-66,Endothelin-2 OS=Mus musculus OX=10090,0
+sp|P22387|EDN1_MOUSE|53-73,Endothelin-1 OS=Mus musculus OX=10090,1
+sp|P22387|EDN1_MOUSE|53-91,Endothelin-1 OS=Mus musculus OX=10090,2
+sp|Q9JJN1|FGF21_MOUSE|29-210,Fibroblast growth factor 21 OS=Mus,1
+sp|O35622|FGF15_MOUSE|26-218,Fibroblast growth factor 15 OS=Mus,3
+sp|Q8K4Z2|FNDC5_MOUSE|29-209,Fibronectin type III domain-containing,1
+sp|Q8K4Z2|FNDC5_MOUSE|29-140,Fibronectin type III domain-containing,2
+sp|P48757|GAST_MOUSE|22-92,Gastrin OS=Mus musculus OX=10090 GN=Gast,0
+sp|P48757|GAST_MOUSE|59-92,Gastrin OS=Mus musculus OX=10090 GN=Gast,0
+sp|P48757|GAST_MOUSE|76-92,Gastrin OS=Mus musculus OX=10090 GN=Gast,0
+sp|P47212|GALA_MOUSE|33-61,Galanin peptides OS=Mus musculus OX=10090,0
+sp|P47212|GALA_MOUSE|65-124,Galanin peptides OS=Mus musculus,0
+tr|A2RSS9|A2RSS9_MOUSE|24-117,Appetite-regulating hormone OS=Mus,0
+sp|P48756|GIP_MOUSE|44-85,Gastric inhibitory polypeptide OS=Mus,0
+sp|P55095|GLUC_MOUSE|21-89,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|21-50,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|53-89,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|53-81,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|98-128,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|98-127,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P55095|GLUC_MOUSE|146-178,Pro-glucagon OS=Mus musculus OX=10090,0
+sp|P13562|GON1_MOUSE|22-90,Progonadoliberin-1 OS=Mus musculus,0
+sp|P13562|GON1_MOUSE|35-90,Progonadoliberin-1 OS=Mus musculus,0
+sp|O09108|LSHB_MOUSE|21-141,Lutropin subunit beta OS=Mus musculus,0
+sp|P35455|NEU2_MOUSE|36-128,Vasopressin-neurophysin 2-copeptin,0
+sp|P35455|NEU2_MOUSE|130-168,Vasopressin-neurophysin 2-copeptin,0
+sp|P11672|NGAL_MOUSE|21-200,Neutrophil gelatinase-associated,0
+sp|P35454|NEU1_MOUSE|32-125,Oxytocin-neurophysin 1 OS=Mus musculus,0
+sp|P06879|PRL_MOUSE|30-226,Prolactin OS=Mus musculus OX=10090 GN=Prl,0
+tr|Q9Z0L6|Q9Z0L6_MOUSE|26-115,Parathyroid hormone OS=Mus musculus,0
+sp|Q08535|SECR_MOUSE|32-58,Secretin OS=Mus musculus OX=10090 GN=Sct,0
+sp|P16043|SLIB_MOUSE|31-72,Somatoliberin OS=Mus musculus OX=10090,0
+sp|P60041|SMS_MOUSE|89-116,Somatostatin OS=Mus musculus OX=10090,0
+sp|P60041|SMS_MOUSE|103-116,Somatostatin OS=Mus musculus OX=10090,0
+sp|P27090|TGFB2_MOUSE|21-302,Transforming growth factor beta-2,0
+sp|P27090|TGFB2_MOUSE|303-414,Transforming growth factor beta-2,7
+sp|P04202|TGFB1_MOUSE|30-278,Transforming growth factor beta-1,0
+sp|P04202|TGFB1_MOUSE|279-390,Transforming growth factor beta-1,8
+sp|Q62361|TRH_MOUSE|25-256,Pro-thyrotropin-releasing hormone OS=Mus,0
+sp|P06804|TNFA_MOUSE|80-235,Tumor necrosis factor OS=Mus musculus,1
+sp|P40226|TPO_MOUSE|22-356,Thrombopoietin OS=Mus musculus OX=10090,0
+sp|P33680|GUC2A_MOUSE|24-101,Guanylin OS=Mus musculus OX=10090,0
+sp|P33680|GUC2A_MOUSE|102-116,Guanylin OS=Mus musculus OX=10090,0
+sp|O09051|GUC2B_MOUSE|92-106,Guanylate cyclase activator 2B OS=Mus,0
+sp|Q9EQ21|HEPC_MOUSE|59-83,Hepcidin OS=Mus musculus OX=10090 GN=Hamp,0
+sp|P12968|IAPP_MOUSE|38-74,Islet amyloid polypeptide OS=Mus musculus,0
+sp|P05017|IGF1_MOUSE|49-118,Insulin-like growth factor I OS=Mus,4
+sp|Q04998|INHBA_MOUSE|309-424,Inhibin beta A chain OS=Mus musculus,5
+tr|A0A0G2JGF4|A0A0G2JGF4_MOUSE|25-165,Interleukin-6 OS=Mus musculus,1
+sp|P01325|INS1_MOUSE|25-54,Insulin-1 OS=Mus musculus OX=10090,2
+sp|P01326|INS2_MOUSE|25-54,Insulin-2 OS=Mus musculus OX=10090,2
+sp|P01325|INS1_MOUSE|88-108,Insulin-1 OS=Mus musculus OX=10090,0
+sp|P01326|INS2_MOUSE|90-110,Insulin-2 OS=Mus musculus OX=10090,0
+sp|P09535|IGF2_MOUSE|25-91,Insulin-like growth factor II OS=Mus,3
+sp|P41160|LEP_MOUSE|22-167,Leptin OS=Mus musculus OX=10090 GN=Lep,0
+sp|O55241|OREX_MOUSE|33-65,Hypocretin neuropeptide precursor OS=Mus,0
+sp|O55241|OREX_MOUSE|69-96,Hypocretin neuropeptide precursor OS=Mus,0
+sp|P86546|OSTCN_MOUSE|50-95,Osteocalcin OS=Mus musculus OX=10090,0
+sp|O70176|PACA_MOUSE|81-128,Pituitary adenylate cyclase-activating,0
+sp|O70176|PACA_MOUSE|131-168,Pituitary adenylate cyclase-activating,0
+sp|O70176|PACA_MOUSE|131-157,Pituitary adenylate cyclase-activating,0
+sp|P10601|PAHO_MOUSE|30-65,Pancreatic polypeptide prohormone OS=Mus,0
+sp|P10601|PAHO_MOUSE|69-100,Pancreatic polypeptide prohormone OS=Mus,0
+sp|P22005|PENK_MOUSE|25-97,Proenkephalin-A OS=Mus musculus OX=10090,0
+sp|P22005|PENK_MOUSE|114-133,Proenkephalin-A OS=Mus musculus,0
+sp|Q99P87|RETN_MOUSE|21-114,Resistin OS=Mus musculus OX=10090,0
+tr|A2RTV8|A2RTV8_MOUSE|23-185,Relaxin 1 OS=Mus musculus OX=10090,0
+sp|Q8CHK2|REL3_MOUSE|25-51,Relaxin-3 OS=Mus musculus OX=10090,0
+sp|Q8CHK2|REL3_MOUSE|118-141,Relaxin-3 OS=Mus musculus OX=10090,0
+sp|P06281|RENI1_MOUSE|72-402,Renin-1 OS=Mus musculus OX=10090,0
+tr|E9Q4F3|E9Q4F3_MOUSE|19-138,Thyrotropin subunit beta OS=Mus,0
+sp|P32648|VIP_MOUSE|81-122,VIP peptides OS=Mus musculus OX=10090,0
+sp|P32648|VIP_MOUSE|81-107,VIP peptides OS=Mus musculus OX=10090,0
+sp|P32648|VIP_MOUSE|125-152,VIP peptides OS=Mus musculus OX=10090,0
+sp|P35455|NEU2_MOUSE|24-32,Vasopressin-neurophysin 2-copeptin OS=Mus,0
+sp|P22005|PENK_MOUSE|100-104,Proenkephalin-A OS=Mus musculus,0
+sp|P22005|PENK_MOUSE|107-111,Proenkephalin-A OS=Mus musculus,0
+sp|P13562|GON1_MOUSE|22-31,Progonadoliberin-1 OS=Mus musculus,0
